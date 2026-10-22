@@ -1,0 +1,19 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradSchool" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#006738"/>
+      <stop offset="100%" stop-color="#145A32"/>
+    </linearGradient>
+  </defs>
+  <!-- Background rounded shield -->
+  <rect width="160" height="160" rx="36" fill="url(#gradSchool)"/>
+  <circle cx="80" cy="80" r="64" stroke="#F5A623" stroke-width="4" stroke-opacity="0.35" fill="none"/>
+  
+  <!-- Graduation cap mortarboard -->
+  <path d="M80 38L132 64L80 90L28 64L80 38Z" fill="#F5A623"/>
+  <path d="M50 75V102C50 114 63.4 122 80 122C96.6 122 110 114 110 102V75L80 90L50 75Z" fill="#FFFFFF"/>
+  <!-- Tassel -->
+  <path d="M122 69V104C122 107.3 119.3 110 116 110C112.7 110 110 107.3 110 104V75" stroke="#F5A623" stroke-width="4" stroke-linecap="round"/>
+  <!-- Star / Sparkle of excellence -->
+  <circle cx="80" cy="106" r="5" fill="#006738"/>
+</svg>
